@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+html,body{
+    height:100%;
+}
+body{
+    background-image: url("http://jlambecpsychologue.fr/img/background.jpg");
+    color: #304a34;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+.wrapper {
+    min-height: 100%;
+    height: 100%;
+    margin: 0 auto -6.25em;
+}
+.header {
+    width: 100%;
+    height: 10rem;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.container{
+        width: 100%;
+        border: 1px solid #ff0000;
+        margin: 0 auto;
+        height: 100%;
+        min-height: 100%;
+}
+.formulaire {
+    max-width:40%;
+    max-height:80%;
+    margin:auto;
+}
+h3 {
+    font-size: 18px;
+    text-decoration: underline;
+}
+.top-text {
+    font-size:18px;
+    }
+.diplomes{
+    margin: 0 0 3em 0
+}
+#line1{
+    margin: 1.5em 0 3em 0;
+}
+#line2{
+    margin: 0em 0 3em 0;
+}
+.presentation{
+    display:flex;
+    max-height: 20em;
+}
+.text-address {
+    display:flex;
+}
+.bold {
+    display:flex;
+}
+.logo-img{
+    width: 80%;
+    margin: 2em auto auto auto;
+    text-align: center;
+}
+.top-menu {
+    height:250px;
+}
+.menu-buttons{
+    height:auto;
+}
+.btn{
+    margin-left: 3em;
+    background-color:transparent;
+    border-color: transparent;
+    color: #304a34;
+    text-decoration: underline;}
+.pres-text{
+    width:70%;
+    margin: 0em 2em 0 0;
+    text-align: justify;
+}
+.image{
+    display:flex;
+    margin-left: 50px;
+    max-width:20%;
+}
+.footer{
+    width:100%;
+    bottom:0;
+    left:0;
+    margin-top:20px;
+}
+.footer-txt{
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;;
+    width:40%;
+    margin:auto;
+}
